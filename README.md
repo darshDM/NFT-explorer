@@ -6,10 +6,9 @@ Clone the Repo.
 
 Create config.js file and add all need endpoints
 
-`const polygonEndpoint = "YOUR ENDPOINT"; </br>
-const ethEndpoint = "YOUR ENDPOINTS"; </br>
-
-export {polygonEndpoint, ethEndpoint};`
+`const polygonEndpoint = "YOUR ENDPOINT";`
+`const ethEndpoint = "YOUR ENDPOINTS";`
+`export {polygonEndpoint, ethEndpoint};`
 
 # Run Application on localhost
 ### `npm run dev`
